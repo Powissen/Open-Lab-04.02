@@ -1,4 +1,6 @@
-﻿namespace Open_Lab_04._02
+﻿using System;
+
+namespace Open_Lab_04._02
 {
     public class Doubler
     {
